@@ -16,7 +16,7 @@ words = ["first", "second", "third", "fourth"]
 words[1] = "updated" 
 print("Обновлённый список:", words)
 
-names = ["Alice", "Bob", "Anna", "Michael", "Alex"]
+names = ["Alizhan", "Baurzhan", "Anastasia", "Misha", "Adil"]
 
 for name in names:
     if name.startswith("A"):
