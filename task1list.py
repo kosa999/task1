@@ -18,7 +18,7 @@ words = ["first", "second", "third", "fourth"]
 words[1] = "updated" 
 print("Обновлённый список:", words)
 
-# 2. A list of strings. Replace the second element with "updated" and display the final list.
+# 3. Create a list of 5 names. Print only those that start with the letter "A".
 names = ["Alizhan", "Baurzhan", "Anastasia", "Misha", "Adil"]
 
 for name in names:
